@@ -1,0 +1,1 @@
+# President-Election-Poland-2025-Analysis-on-X
