@@ -39,6 +39,6 @@ In this project, I will analyze the popularity of each candidate and determine w
 ## Project Structure
 
 The most important file is "jupyter_.ipynb", in there you can find Election Analysis with descriptions.
-Other filles are included to showcase the entire process.
+Other filles are included to showcase the entire process of working on this project.
 
 
