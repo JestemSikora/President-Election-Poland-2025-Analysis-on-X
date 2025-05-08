@@ -7,6 +7,7 @@
 
 - [Description](#description) 
 - [Requirements](#requirements)
+- [Project Structure](#project_structure)
   
 ---
 
